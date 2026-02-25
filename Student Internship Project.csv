@@ -1,0 +1,51 @@
+StudentID,Degree,YearOfStudy,Skills,InternshipPlatform,InternshipType,SelectionStatus,InternshipDurationMonths,Stipend,Selection_flag
+S001,BSc,Final,"Excel, Power BI",LinkedIn,Data Analyst,Selected,6,12000,1
+S002,BCom,3rd,Excel,Internshala,HR,Rejected,3,0,0
+S003,BTech,Final,"Excel, SQL, Power BI",Referral,Data Analyst,Selected,6,15000,1
+S004,BA,2nd,Communication,Internshala,Marketing,Rejected,2,0,0
+S005,BSc,3rd,"Excel, Power BI",LinkedIn,Data Analyst,Selected,4,10000,1
+S006,BCom,Final,"Excel, Communication",Company Website,Operations,Selected,6,8000,1
+S007,BTech,3rd,"Python, SQL",LinkedIn,Data Analyst,Rejected,5,0,0
+S008,BSc,2nd,Excel,Internshala,Operations,Rejected,3,0,0
+S009,BA,Final,"Communication, Marketing",Referral,Marketing,Selected,4,7000,1
+S010,BCom,3rd,"Excel, Power BI",LinkedIn,Data Analyst,Selected,6,11000,1
+S011,BTech,Final,"SQL, Power BI",Company Website,Data Analyst,Selected,6,14000,1
+S012,BSc,3rd,Excel,Internshala,HR,Rejected,3,0,0
+S013,BA,2nd,Communication,Internshala,Marketing,Rejected,2,0,0
+S014,BCom,Final,"Excel, Power BI, SQL",LinkedIn,Data Analyst,Selected,6,16000,1
+S015,BTech,3rd,Python,Company Website,Operations,Rejected,4,0,0
+S016,BSc,Final,"Excel, Power BI",Referral,Data Analyst,Selected,6,13000,1
+S017,BCom,2nd,Excel,Internshala,HR,Rejected,3,0,0
+S018,BA,Final,Communication,LinkedIn,Marketing,Selected,4,6000,1
+S019,BTech,Final,"SQL, Python, Power BI",Referral,Data Analyst,Selected,6,18000,1
+S020,BSc,3rd,"Excel, Power BI",LinkedIn,Data Analyst,Selected,5,10000,1
+S021,BCom,Final,"Excel, Communication",Company Website,Operations,Selected,6,9000,1
+S022,BTech,2nd,Python,Internshala,Data Analyst,Rejected,3,0,0
+S023,BA,3rd,"Marketing, Communication",LinkedIn,Marketing,Rejected,4,0,0
+S024,BSc,Final,"Excel, SQL",Referral,Data Analyst,Selected,6,14000,1
+S025,BCom,3rd,Excel,Internshala,HR,Rejected,3,0,0
+S026,BTech,Final,"Power BI, SQL",LinkedIn,Data Analyst,Selected,6,15000,1
+S027,BA,2nd,Communication,Internshala,Marketing,Rejected,2,0,0
+S028,BSc,3rd,"Excel, Power BI",Company Website,Operations,Selected,5,9000,1
+S029,BCom,Final,"Excel, Power BI",Referral,Data Analyst,Selected,6,12000,1
+S030,BTech,3rd,"Python, SQL",LinkedIn,Data Analyst,Rejected,5,0,0
+S031,BSc,Final,"Excel, Power BI",LinkedIn,Data Analyst,Selected,6,11000,1
+S032,BCom,2nd,Excel,Internshala,HR,Rejected,3,0,0
+S033,BA,Final,Communication,Company Website,Marketing,Selected,4,6500,1
+S034,BTech,Final,"SQL, Power BI",Referral,Data Analyst,Selected,6,17000,1
+S035,BSc,3rd,Excel,Internshala,Operations,Rejected,3,0,0
+S036,BCom,Final,"Excel, Power BI",LinkedIn,Data Analyst,Selected,6,13000,1
+S037,BA,3rd,Marketing,Internshala,Marketing,Rejected,3,0,0
+S038,BTech,Final,"Python, SQL, Power BI",Company Website,Data Analyst,Selected,6,16000,1
+S039,BSc,2nd,Excel,Internshala,HR,Rejected,3,0,0
+S040,BCom,Final,"Excel, Communication",Referral,Operations,Selected,6,8500,1
+S041,BTech,3rd,SQL,LinkedIn,Data Analyst,Rejected,4,0,0
+S042,BA,Final,"Communication, Marketing",LinkedIn,Marketing,Selected,5,7000,1
+S043,BSc,3rd,"Excel, Power BI",Company Website,Data Analyst,Selected,6,12000,1
+S044,BCom,2nd,Excel,Internshala,HR,Rejected,3,0,0
+S045,BTech,Final,"Power BI, SQL",Referral,Data Analyst,Selected,6,16500,1
+S046,BA,3rd,Marketing,Internshala,Marketing,Rejected,3,0,0
+S047,BSc,Final,"Excel, Power BI",LinkedIn,Data Analyst,Selected,6,14000,1
+S048,BCom,3rd,Excel,Internshala,Operations,Rejected,3,0,0
+S049,BTech,Final,"SQL, Python",Company Website,Data Analyst,Selected,6,15500,1
+S050,BA,2nd,Communication,Internshala,Marketing,Rejected,2,0,0
