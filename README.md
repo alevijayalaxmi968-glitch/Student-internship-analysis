@@ -15,6 +15,7 @@ Selection rate comparison by degree background
 Stipend analysis and average stipend calculation
 Distribution of internship types
 _
+
 **Tools Used**:
 
 _Microsoft Excel – Data cleaning and preparation
