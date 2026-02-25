@@ -4,11 +4,11 @@ _This project analyzes internship application data to identify the key factors t
 
 **Project Overview**:
 
-_Many students apply for internships without clear insight into what increases their selection probability. This project uses data analysis and visualization techniques to uncover patterns and trends in internship selection and stipend distribution.
+Many students apply for internships without clear insight into what increases their selection probability. This project uses data analysis and visualization techniques to uncover patterns and trends in internship selection and stipend distribution.
 
 **Key Analysis Performed**:
 
-_Identification of skills with the highest selection rate
+Identification of skills with the highest selection rate
 Platform-wise internship selection effectiveness
 Selection rate comparison by degree background
 Stipend analysis and average stipend calculation
